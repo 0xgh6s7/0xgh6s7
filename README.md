@@ -1,4 +1,4 @@
-jekyll## 👋 Hi, I'm 0xgh6s7
+## 👋 Hi, I'm 0xgh6s7
 _I died once_ ⚰️👻
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xgh6s7&theme=tokyonight" alt="mystreak"/>
