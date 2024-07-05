@@ -11,7 +11,7 @@ _I died once_ ⚰️👻
 
 👨‍🎓 Studying CyberSecurity at [Bayero University, Kano. Nigeria](https://www.buk.edu.ng) 🏫
 
-🎨🐾 Writing and Sharing my API Hacking Journey at [My Blog website](https://www.0xgh6s7.github.io/) 🎯
+🎨🐾 Writing and Sharing my API Hacking Journey at [My Blog website](https://0xgh6s7.github.io/) 🎯
 
 💭🔫 Learning #APIhacking 📚
 
