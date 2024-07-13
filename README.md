@@ -11,29 +11,34 @@ _I died once_ ⚰️👻
 
 👨‍🎓 Studying CyberSecurity at [Bayero University, Kano. Nigeria](https://www.buk.edu.ng) 🏫
 
-🎨🐾 Writing and Sharing my API Hacking Journey at [My Blog website](https://0xgh6s7.github.io/) 🎯
-
-💭🔫 Learning #APIhacking 📚
+💭🔫 Learning #APIhacking & #APIDEV 📚
 
 ---
 
 # 💻 Tech Stack/Journey
 
+- API Development and Back ends 🖥️🧭
 - Mordern System Administration 👑🖨️
 - API Hacking and Bug Bounty 🐛🚩
 - CTFs 🚩🎯
 
 ---
+# 🤖 LANGUAGES
+- Python
+- Javascript
+- Powershell
+- Bash
+*I also love Markdown*, *& ♥️ JS🤥*...
 
 # 🏭 Activities 
-- Writing blogs 📆✍️
+- Writing about my Tech Journey 📆✍️
+- API Development using Node.js ⌨️🌐🚀 (Javascript) 
 - BBPs || VDPs || CFTs 🎯🚩
 - ... I read a lot
 
 ---
 
 # 🔗 links
-- [Blog💓](https://0xgh6s7.github.io/)
 - [X (formerly Twitter)](https://x.com/0xgh6s7)
 - [Medium](https://medium.com/@0xgh6s7)
 - [LinkedIn]( https://www.linkedin.com/in/sadiq-hayatuddeen-3a7a45275)
