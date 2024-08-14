@@ -18,9 +18,6 @@ _I died once_ ⚰️👻
 # 💻 Tech Stack/Journey
 
 - API Development and Back ends 🖥️🧭
-- Mordern System Administration 👑🖨️
-- API Hacking and Bug Bounty 🐛🚩
-- CTFs 🚩🎯
 
 ---
 # 🤖 LANGUAGES
@@ -29,13 +26,6 @@ _I died once_ ⚰️👻
 - Powershell
 - Bash
 *I also love Markdown*, *& ♥️ JS🤥*...
-
-# 🏭 Activities 
-- Writing about my Tech Journey 📆✍️
-- API Development using Node.js ⌨️🌐🚀 (Javascript) 
-- BBPs || VDPs || CFTs 🎯🚩
-- ... I read a lot
-
 ---
 
 # 🔗 links
