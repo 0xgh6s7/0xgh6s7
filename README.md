@@ -31,6 +31,6 @@ _I died once_ ⚰️👻
 # 🔗 links
 - [X (formerly Twitter)](https://x.com/0xgh6s7)
 - [Medium](https://medium.com/@0xgh6s7)
-- [LinkedIn]( https://www.linkedin.com/in/sadiq-hayatuddeen-3a7a45275)
+- [LinkedIn](https://www.linkedin.com/in/sadiq-hayatuddeen-134458327)
 
 ---
